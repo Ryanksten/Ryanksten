@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in technology, automation, and digital transformation.<br>🌱 I’m currently learning advanced RPA techniques, Salesforce development, and data integration.<br>💞️ I’m looking to collaborate on projects involving process automation, software development, and enhancing operational efficiency.<br>📫 How to reach me: Rstenning72@gmail.com<br>⚡ Fun fact: I Make music on the side with my passion for technology.
+👀 I’m interested in technology, automation, and digital transformation.<br>🌱 I’m currently learning Kotlin App Development, Salesforce development, and data integration.<br>💞️ I’m looking to collaborate on projects involving process automation, software development, and enhancing operational efficiency.<br>📫 How to reach me: Rstenning72@gmail.com<br>⚡ Fun fact: I Make music on the side with my passion for technology.
 
 
 ## 🌐 Socials:
