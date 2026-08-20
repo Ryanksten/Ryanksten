@@ -20,5 +20,3 @@ Software engineer interested in cloud platforms, systems integration, and practi
 | AI | Applied AI, agent workflows, Cursor |
 
 [LinkedIn](https://linkedin.com/in/Ryan-Stenning)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryanksten&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
